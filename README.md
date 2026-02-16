@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=reverse+engineer+%7C+malware+analyst;windows+internals+%7C+ctf+author+%40n3xusss" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=reverse+engineer+%7C+malware+analyst;windows+internals+%7C+ctf+player+%26+author" />
 
 <br>
 
@@ -29,7 +29,7 @@ $ cat /proc/self/interests
 - 🧬 dissect malware — unpack, deobfuscate, trace execution
 - 🔓 reverse engineer binaries until they give up their secrets
 - 🪟 explore Windows internals — NTAPI, kernel, syscalls
-- 🏴 build & solve CTF challenges with [@n3xusss](https://github.com/n3xusss)
+- 🏴 CTF player & challenge author
 - 🛠️ develop offensive tools & proof-of-concepts
 
 </td>
