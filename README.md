@@ -44,7 +44,7 @@ $ lsmod | grep tools
 | | |
 |---|---|
 | **reverse** | IDA Pro · Ghidra · x64dbg · Binary Ninja |
-| **debug** | WinDbg · Process Monitor · API Monitor |
+| **debug** | WinDbg · GDB · Process Monitor · API Monitor |
 | **analysis** | Wireshark · YARA · PE-bear · Detect It Easy |
 | **internals** | NTAPI · syscalls · drivers · kernel debugging |
 | **lang** | C · x86/x64 ASM · Python |
