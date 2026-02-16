@@ -8,7 +8,7 @@
 ```
 
 <div align="center">
-<sub>reverse engineer · malware analyst · ctf author</sub>
+<sub>reverse engineer · malware analyst · windows internals · ctf author</sub>
 <br><br>
 
 ```c
@@ -27,8 +27,9 @@ while (1) { disassemble(); analyze(); break_things(); learn(); }
 
 - tear apart malware to understand how it thinks
 - reverse binaries until they confess
+- dig into Windows internals — NTAPI, kernel, syscalls
 - write CTF challenges for [@n3xusss](https://github.com/n3xusss)
-- build tools that shouldn't exist
+- build offensive tools that shouldn't exist
 
 </td>
 <td width="50%" valign="top">
@@ -37,9 +38,10 @@ while (1) { disassemble(); analyze(); break_things(); learn(); }
 
 ```
 disassembly    IDA · Ghidra · x64dbg
-analysis       Process Monitor · Wireshark · YARA
-dev            C · Python · JavaScript · Svelte
-tic-tac-toe    low-level wins
+debugging      WinDbg · Process Monitor
+analysis       Wireshark · YARA · PE-bear
+internals      NTAPI · drivers · syscalls
+lang           C · x86 ASM · Python
 ```
 
 </td>
