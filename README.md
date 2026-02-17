@@ -22,7 +22,7 @@
 <tr>
 <td align="center" width="160"><sub>location</sub><br><b>Algeria 🇩🇿</b></td>
 <td align="center" width="280"><sub>education</sub><br><b>ESTIN</b></td>
-<td align="center" width="160"><sub>focus</sub><br><b>Windows Internals</b></td>
+<td align="center" width="160"><sub>focus</sub><br><b>Low-Level Systems</b></td>
 </tr>
 </table>
 
@@ -204,6 +204,8 @@
 
 <sub><i>"the best way to understand something is to take it apart."</i></sub>
 
-</div>
+<br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=120&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/footer.svg"/>
+
+</div>
