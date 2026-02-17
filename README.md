@@ -102,45 +102,60 @@ currently:
 <sub>real-world malware dissected — from first byte to last syscall</sub>
 <br><br>
 
+<!-- WRITEUPS:START -->
 <a href="https://zx41r.github.io/posts/phobos-writeup/">
-<img src="https://img.shields.io/badge/▸_PHOBOS_RANSOMWARE-ED4245?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAxOUg5di02aDJ2NnptNC00SDl2LTJINXY2eiIvPjwvc3ZnPg=="/>
+<img src="https://img.shields.io/badge/🟣_Phobos_Ransomware-5865F2?style=for-the-badge"/>
 </a>
 
 ```
-TYPE:     Ransomware
-METHODS:  Encrypted config · process termination · persistence · file encryption
-VERDICT:  ██████████ FULLY ANALYZED
-```
-
-<a href="https://zx41r.github.io/posts/red-stealer-writeup/">
-<img src="https://img.shields.io/badge/▸_RED_STEALER-FEE75C?style=for-the-badge&logoColor=black"/>
-</a>
-
-```
-TYPE:     Info Stealer
-METHODS:  IOC extraction · C2 infrastructure · MITRE ATT&CK mapping
-VERDICT:  ██████████ FULLY ANALYZED
-```
-
-<a href="https://zx41r.github.io/posts/ransomed-writeup/">
-<img src="https://img.shields.io/badge/▸_RANSOMED-5865F2?style=for-the-badge"/>
-</a>
-
-```
-TYPE:     Ransomware
-METHODS:  Stack-strings · API resolution · shellcode · process hollowing
-VERDICT:  ██████████ FULLY ANALYZED
+  platform   CyberDefenders
+  category   Malware Analysis
+  difficulty Insane
+  focus      Ransomware · AES Config Decryption · Registry Persistence · Process Termination
+  date       2026-01-04
+  status     ██████████ ANALYZED
 ```
 
 <a href="https://zx41r.github.io/posts/re101-writeup/">
-<img src="https://img.shields.io/badge/▸_RE101-57F287?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/🟡_RE101-FEE75C?style=for-the-badge"/>
 </a>
 
 ```
-TYPE:     RE Fundamentals
-METHODS:  Binary analysis · obfuscated scripts · corrupted archives · flag extraction
-VERDICT:  ██████████ FULLY ANALYZED
+  platform   CyberDefenders
+  category   Malware Analysis
+  difficulty Medium
+  focus      Binary Analysis · Script Deobfuscation · File Format Repair · Custom Encryption
+  date       2026-01-03
+  status     ██████████ ANALYZED
 ```
+
+<a href="https://zx41r.github.io/posts/red-stealer-writeup/">
+<img src="https://img.shields.io/badge/🟢_Red_Stealer-57F287?style=for-the-badge"/>
+</a>
+
+```
+  platform   CyberDefenders
+  category   Threat Intelligence
+  difficulty Easy
+  focus      IOC Extraction · C2 Identification · MITRE ATT&CK Mapping · Malware Classification
+  date       2026-01-03
+  status     ██████████ ANALYZED
+```
+
+<a href="https://zx41r.github.io/posts/ransomed-writeup/">
+<img src="https://img.shields.io/badge/🔴_Ransomed-ED4245?style=for-the-badge"/>
+</a>
+
+```
+  platform   CyberDefenders
+  category   Malware Analysis
+  difficulty Hard
+  focus      Dynamic Analysis · Process Hollowing · String Obfuscation · API Resolution
+  date       2026-01-02
+  status     ██████████ ANALYZED
+```
+
+<!-- WRITEUPS:END -->
 
 <br>
 
