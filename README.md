@@ -208,8 +208,4 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/footer.svg"/>
 
-<br>
-
-<img width="100%" height="150" style="object-fit:cover" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/banner.gif"/>
-
 </div>
