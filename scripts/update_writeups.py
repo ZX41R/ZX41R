@@ -74,23 +74,28 @@ def generate_section(entries):
         link = e.get("link", "#")
         date = e.get("date", "")
 
-        lines.append(f'<a href="{link}">')
-        lines.append(
-            f'<img src="https://img.shields.io/badge/{emoji}_{title.replace(" ", "_").replace("-", "--")}-{color}?style=for-the-badge"/>'
-        )
-        lines.append("</a>")
-        lines.append("")
-        lines.append("```")
-        lines.append(f"  platform   {platform}")
-        lines.append(f"  category   {category}")
-        lines.append(f"  difficulty {diff}")
-        lines.append(f"  focus      {focus}")
-        lines.append(f"  date       {date}")
-        lines.append(f"  status     ██████████ ANALYZED")
-        lines.append("```")
-        lines.append("")
+        title_badge = title.replace(" ", "_").replace("-", "--")
+        focus_tags = ""
+        for tag in [t.strip() for t in focus.split("·")][:3]:
+            tag_clean = tag.replace(" ", "_").replace("-", "--")
+            focus_tags += f'<img src="https://img.shields.io/badge/{tag_clean}-161b22?style=flat-square"/> '
 
-    return "\n".join(lines)
+        lines.append(f'<tr>')
+        lines.append(f'<td>')
+        lines.append(f'<a href="{link}">')
+        lines.append(f'<img src="https://img.shields.io/badge/{emoji}_{title_badge}-{color}?style=flat-square"/>')
+        lines.append(f'</a>')
+        lines.append(f'<br>')
+        lines.append(f'{focus_tags.strip()}')
+        lines.append(f'</td>')
+        lines.append(f'<td align="center"><img src="https://img.shields.io/badge/{platform.replace(" ", "_")}-0d1117?style=flat-square"/></td>')
+        lines.append(f'<td align="center"><img src="https://img.shields.io/badge/{diff}-{color}?style=flat-square"/></td>')
+        lines.append(f'<td align="center"><sub>{date}</sub></td>')
+        lines.append(f'</tr>')
+
+    header = '<table align="center">\n<tr><th align="left">sample</th><th>platform</th><th>difficulty</th><th>date</th></tr>'
+    footer = '</table>'
+    return header + "\n" + "\n".join(lines) + "\n" + footer
 
 
 def update_readme(section_content):

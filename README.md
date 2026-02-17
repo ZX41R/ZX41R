@@ -103,58 +103,57 @@ currently:
 <br><br>
 
 <!-- WRITEUPS:START -->
+<table align="center">
+<tr><th align="left">sample</th><th>platform</th><th>difficulty</th><th>date</th></tr>
+<tr>
+<td>
 <a href="https://zx41r.github.io/posts/phobos-writeup/">
-<img src="https://img.shields.io/badge/🟣_Phobos_Ransomware-5865F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟣_Phobos_Ransomware-5865F2?style=flat-square"/>
 </a>
-
-```
-  platform   CyberDefenders
-  category   Malware Analysis
-  difficulty Insane
-  focus      Ransomware · AES Config Decryption · Registry Persistence · Process Termination
-  date       2026-01-04
-  status     ██████████ ANALYZED
-```
-
+<br>
+<img src="https://img.shields.io/badge/Ransomware-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/AES_Config_Decryption-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/Registry_Persistence-161b22?style=flat-square"/>
+</td>
+<td align="center"><img src="https://img.shields.io/badge/CyberDefenders-0d1117?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Insane-5865F2?style=flat-square"/></td>
+<td align="center"><sub>2026-01-04</sub></td>
+</tr>
+<tr>
+<td>
 <a href="https://zx41r.github.io/posts/re101-writeup/">
-<img src="https://img.shields.io/badge/🟡_RE101-FEE75C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟡_RE101-FEE75C?style=flat-square"/>
 </a>
-
-```
-  platform   CyberDefenders
-  category   Malware Analysis
-  difficulty Medium
-  focus      Binary Analysis · Script Deobfuscation · File Format Repair · Custom Encryption
-  date       2026-01-03
-  status     ██████████ ANALYZED
-```
-
+<br>
+<img src="https://img.shields.io/badge/Binary_Analysis-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/Script_Deobfuscation-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/File_Format_Repair-161b22?style=flat-square"/>
+</td>
+<td align="center"><img src="https://img.shields.io/badge/CyberDefenders-0d1117?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Medium-FEE75C?style=flat-square"/></td>
+<td align="center"><sub>2026-01-03</sub></td>
+</tr>
+<tr>
+<td>
 <a href="https://zx41r.github.io/posts/red-stealer-writeup/">
-<img src="https://img.shields.io/badge/🟢_Red_Stealer-57F287?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢_Red_Stealer-57F287?style=flat-square"/>
 </a>
-
-```
-  platform   CyberDefenders
-  category   Threat Intelligence
-  difficulty Easy
-  focus      IOC Extraction · C2 Identification · MITRE ATT&CK Mapping · Malware Classification
-  date       2026-01-03
-  status     ██████████ ANALYZED
-```
-
+<br>
+<img src="https://img.shields.io/badge/IOC_Extraction-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/C2_Identification-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/MITRE_ATT&CK_Mapping-161b22?style=flat-square"/>
+</td>
+<td align="center"><img src="https://img.shields.io/badge/CyberDefenders-0d1117?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Easy-57F287?style=flat-square"/></td>
+<td align="center"><sub>2026-01-03</sub></td>
+</tr>
+<tr>
+<td>
 <a href="https://zx41r.github.io/posts/ransomed-writeup/">
-<img src="https://img.shields.io/badge/🔴_Ransomed-ED4245?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔴_Ransomed-ED4245?style=flat-square"/>
 </a>
-
-```
-  platform   CyberDefenders
-  category   Malware Analysis
-  difficulty Hard
-  focus      Dynamic Analysis · Process Hollowing · String Obfuscation · API Resolution
-  date       2026-01-02
-  status     ██████████ ANALYZED
-```
-
+<br>
+<img src="https://img.shields.io/badge/Dynamic_Analysis-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/Process_Hollowing-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/String_Obfuscation-161b22?style=flat-square"/>
+</td>
+<td align="center"><img src="https://img.shields.io/badge/CyberDefenders-0d1117?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Hard-ED4245?style=flat-square"/></td>
+<td align="center"><sub>2026-01-02</sub></td>
+</tr>
+</table>
 <!-- WRITEUPS:END -->
 
 <br>
