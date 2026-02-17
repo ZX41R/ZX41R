@@ -206,20 +206,6 @@
 
 <br><br>
 
-<!--🖼️ INTERESTS -->
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="42">&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="42">&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42">&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42">&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42">&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42">&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42">&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42">
-</p>
-
-<br>
-
 <sub><i>"the best way to understand something is to take it apart."</i></sub>
 
 <br><br>
