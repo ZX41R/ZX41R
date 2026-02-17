@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=200&section=header&text=N!L&fontSize=80&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=breaker%20of%20binaries&descSize=14&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=200&section=header&text=%F0%9D%99%BD!%F0%9D%99%BB&fontSize=80&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=breaker%20of%20binaries&descSize=14&descAlignY=55&descAlign=50"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/urahara.gif" width="120"/>
-
-<br><br>
-
+<table><tr><td align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/urahara.gif" width="150"/>
+</td><td align="center" valign="middle">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=reverse+engineer+%7C+malware+analyst;windows+internals+%7C+ctf+player+%26+author" />
+</td></tr></table>
 
 <br>
 
@@ -210,7 +210,7 @@
 
 <br><br>
 
-<img width="100%" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/footer-anime.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/banner.gif"/>
 
 <br>
 
