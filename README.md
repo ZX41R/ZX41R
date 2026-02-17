@@ -22,7 +22,7 @@
 <tr>
 <td align="center" width="160"><sub>location</sub><br><b>Algeria 🇩🇿</b></td>
 <td align="center" width="280"><sub>education</sub><br><b>ESTIN</b></td>
-<td align="center" width="160"><sub>focus</sub><br><b>Low-Level Systems</b></td>
+<td align="center" width="160"><sub>focus</sub><br><b>Low-Level</b></td>
 </tr>
 </table>
 
