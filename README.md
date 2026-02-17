@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/urahara.gif" width="120"/>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=reverse+engineer+%7C+malware+analyst;windows+internals+%7C+ctf+player+%26+author" />
 
 <br>
@@ -202,10 +206,28 @@
 
 <br><br>
 
+<!--🖼️ INTERESTS -->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="42">&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="42">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42">
+</p>
+
+<br>
+
 <sub><i>"the best way to understand something is to take it apart."</i></sub>
 
 <br><br>
 
-<img width="100%" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/footer.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/footer-anime.gif"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=120&section=footer"/>
 
 </div>
