@@ -22,7 +22,7 @@
 <tr>
 <td align="center" width="160"><sub>location</sub><br><b>Algeria 🇩🇿</b></td>
 <td align="center" width="280"><sub>education</sub><br><b>ESTIN</b></td>
-<td align="center" width="160"><sub>focus</sub><br><b>Offensive Security</b></td>
+<td align="center" width="160"><sub>focus</sub><br><b>Windows Internals</b></td>
 </tr>
 </table>
 
@@ -38,7 +38,7 @@
 <br>
 <img src="https://img.shields.io/badge/▹_Windows_Internals_(NTAPI,_kernel,_syscalls)-c9d1d9?style=flat-square&labelColor=161b22"/>
 <br>
-<img src="https://img.shields.io/badge/▹_Offensive_Tool_Development-c9d1d9?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/▹_Memory_Forensics_&_Incident_Response-c9d1d9?style=flat-square&labelColor=161b22"/>
 <br>
 <img src="https://img.shields.io/badge/▹_CTF_Challenges_(player_&_author)-c9d1d9?style=flat-square&labelColor=161b22"/>
 
@@ -47,11 +47,11 @@
 
 <h4>🔭 &nbsp;right now</h4>
 
-<img src="https://img.shields.io/badge/→_writing_YARA_rules_for_fun-5865F2?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/→_malware_development_&_research-5865F2?style=flat-square&labelColor=161b22"/>
 <br>
-<img src="https://img.shields.io/badge/→_debugging_ring0-5865F2?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/→_building_analysis_tooling-5865F2?style=flat-square&labelColor=161b22"/>
 <br>
-<img src="https://img.shields.io/badge/→_breaking_things_that_weren't_meant_to_be_broken-5865F2?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/→_digging_deeper_into_ring0-5865F2?style=flat-square&labelColor=161b22"/>
 
 </td>
 </tr>
