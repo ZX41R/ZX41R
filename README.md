@@ -5,7 +5,7 @@
 <table><tr><td align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/urahara.gif" width="150"/>
 </td><td align="center" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=3000&color=5865F2&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=35&lines=%E2%96%B8+reverse+engineering+%C2%B7+malware+analysis+%C2%B7+windows+internals;%E2%96%B8+ntapi+%C2%B7+syscalls+%C2%B7+ring0+%C2%B7+kernel+drivers;%E2%96%B8+memory+forensics+%C2%B7+incident+response+%C2%B7+yara;%E2%96%B8+ctf+player+%26+author+%C2%B7+breaker+of+binaries" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=3000&color=5865F2&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=80&lines=reverse+engineer+%7C+malware+analyst;windows+internals+%7C+ctf+player+%26+author" />
 </td></tr></table>
 
 <br>
@@ -210,8 +210,6 @@
 
 <br>
 
-<img width="100%" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/banner.gif"/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=100&section=footer"/>
+<img width="100%" height="150" style="object-fit:cover" src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/banner.gif"/>
 
 </div>
