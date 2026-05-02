@@ -135,6 +135,18 @@
 <tr><th align="left">sample</th><th>platform</th><th>difficulty</th><th>date</th></tr>
 <tr>
 <td>
+<a href="https://zx41r.github.io/posts/c00ked-d3v-writeup/">
+<img src="https://img.shields.io/badge/🟡_c00ked_d3v_Full_NexZeroCTF_OSINT/4n6_Chain-FEE75C?style=flat-square"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/-161b22?style=flat-square"/>
+</td>
+<td align="center"><img src="https://img.shields.io/badge/Unknown-0d1117?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Medium-FEE75C?style=flat-square"/></td>
+<td align="center"><sub>2026-05-02</sub></td>
+</tr>
+<tr>
+<td>
 <a href="https://zx41r.github.io/posts/phobos-writeup/">
 <img src="https://img.shields.io/badge/🟣_Phobos_Ransomware-5865F2?style=flat-square"/>
 </a>
@@ -168,18 +180,6 @@
 <td align="center"><img src="https://img.shields.io/badge/CyberDefenders-0d1117?style=flat-square"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Easy-57F287?style=flat-square"/></td>
 <td align="center"><sub>2026-01-03</sub></td>
-</tr>
-<tr>
-<td>
-<a href="https://zx41r.github.io/posts/ransomed-writeup/">
-<img src="https://img.shields.io/badge/🔴_Ransomed-ED4245?style=flat-square"/>
-</a>
-<br>
-<img src="https://img.shields.io/badge/Dynamic_Analysis-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/Process_Hollowing-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/String_Obfuscation-161b22?style=flat-square"/>
-</td>
-<td align="center"><img src="https://img.shields.io/badge/CyberDefenders-0d1117?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Hard-ED4245?style=flat-square"/></td>
-<td align="center"><sub>2026-01-02</sub></td>
 </tr>
 </table>
 <!-- WRITEUPS:END -->
