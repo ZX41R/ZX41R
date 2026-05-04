@@ -55,26 +55,6 @@
 <td align="left"><img src="https://img.shields.io/badge/Binary%20Analysis-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/Script%20Deobfuscation-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/File%20Format%20Repair-161b22?style=flat-square"/></td>
 <td align="center"><sub>2026-01-03</sub></td>
 </tr>
-<tr>
-<td align="left">
-<a href="https://zx41r.github.io/posts/red-stealer-writeup/">
-<img src="https://img.shields.io/badge/Red%20Stealer-57F287?style=flat-square"/>
-</a>
-</td>
-<td align="center"><img src="https://img.shields.io/badge/CyberDefenders-3558FF?style=flat-square"/></td>
-<td align="left"><img src="https://img.shields.io/badge/IOC%20Extraction-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/C2%20Identification-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK%20Mapping-161b22?style=flat-square"/></td>
-<td align="center"><sub>2026-01-03</sub></td>
-</tr>
-<tr>
-<td align="left">
-<a href="https://zx41r.github.io/posts/ransomed-writeup/">
-<img src="https://img.shields.io/badge/Ransomed-ED4245?style=flat-square"/>
-</a>
-</td>
-<td align="center"><img src="https://img.shields.io/badge/CyberDefenders-3558FF?style=flat-square"/></td>
-<td align="left"><img src="https://img.shields.io/badge/Dynamic%20Analysis-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/Process%20Hollowing-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/String%20Obfuscation-161b22?style=flat-square"/></td>
-<td align="center"><sub>2026-01-02</sub></td>
-</tr>
 </table>
 <!-- LATEST:END -->
 

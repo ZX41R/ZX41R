@@ -7,7 +7,7 @@ from dataclasses import dataclass
 from urllib.parse import quote
 
 FEED_URL = "https://zx41r.github.io/feed.xml"
-MAX_ITEMS = 5
+MAX_ITEMS = 3
 MARKER_START = "<!-- LATEST:START -->"
 MARKER_END = "<!-- LATEST:END -->"
 
