@@ -1,4 +1,4 @@
-name: Update Writeups
+name: Update Latest Work
 
 on:
   schedule:
@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch blog & update README
+      - name: Fetch feed & update README
         run: python scripts/update_writeups.py
 
       - name: Commit & push
@@ -25,5 +25,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "auto: update writeups from blog feed"
+          git diff --cached --quiet || git commit -m "auto: update latest work from blog feed"
           git push
