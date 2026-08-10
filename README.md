@@ -2,9 +2,6 @@
 
 <table>
 <tr>
-<td align="center" valign="middle" width="150">
-<img src="https://raw.githubusercontent.com/ZX41R/ZX41R/main/urahara.gif" width="135"/>
-</td>
 <td align="center" valign="middle" width="500">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=3000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=56&lines=Zx41R+%7C+Malware+%26+Security+Research" />
 </td>
